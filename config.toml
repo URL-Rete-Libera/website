@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://urlretelibera.org"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "URL - Rete Libera"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -30,6 +30,7 @@ customCss = []
 # example ["js/custom.js"]
 customJs = []
 mainSections = ["post"]
+# mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -53,12 +54,17 @@ url = "https://t.me/hackerbari"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/URL-Rete-Libera"
 
 [[params.socialIcons]]
 icon = "fab fa-facebook"
 title = "facebook"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/urlretelibera/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://www.twitter.com/URL_ReteLibera/"
 
 ## Menu items
 
