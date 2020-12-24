@@ -82,20 +82,8 @@ url = "https://www.twitter.com/URL_ReteLibera/"
   identifier = "posts"
   url = "/post/"
 
-  # [[menu.main]]
-  # name = "About"
-  # weight = 300
-  # identifier = "about"
-  # url = "/about/"
-
   [[menu.main]]
   name = "Contatti"
   weight = 400
   identifier = "contact"
   url = "/contact/"
-
-  # [[menu.main]]
-  # name = "Statuto"
-  # weight = 400
-  # identifier = "statuto"
-  # url = "/statuto/"
