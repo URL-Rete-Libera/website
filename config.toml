@@ -29,8 +29,8 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-mainSections = ["post"]
-# mainSections = []
+# mainSections = ["post"]
+mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -77,19 +77,25 @@ url = "https://www.twitter.com/URL_ReteLibera/"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Post"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  # [[menu.main]]
+  # name = "About"
+  # weight = 300
+  # identifier = "about"
+  # url = "/about/"
 
   [[menu.main]]
-  name = "Contact"
+  name = "Contatti"
   weight = 400
   identifier = "contact"
   url = "/contact/"
+
+  # [[menu.main]]
+  # name = "Statuto"
+  # weight = 400
+  # identifier = "statuto"
+  # url = "/statuto/"
