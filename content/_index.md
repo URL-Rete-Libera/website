@@ -10,9 +10,13 @@ Nasce nel 2017 con l'idea di unire tutti gli individui di larghe vedute e di cre
 
 **URL** è un catalizzatore di idee e progetti ed è parte attiva nella diffusione del **software libero** a Bari e in Puglia oltre che a perseguire attività civiche, solidaristiche e di utilità sociale.
 
-
 ## Come posso contribuire?
-Se ti piace quello che facciamo e vorresti contribuire ai nostri progetti o alle nostre iniziative, puoi **unirti al nostro gruppo Telegram [URL - Community](https://t.me/hackerbari)**, **iscriverti all'associazione** oppure **offrirci un caffè**.
+Se ti piace quello che facciamo e vorresti contribuire ai nostri progetti o alle nostre iniziative, 
+puoi unirti al nostro gruppo Telegram [URL - Community](https://t.me/hackerbari), iscriverti all'associazione oppure offrirci una birra:
+
+[![Gruppo Telegram](https://img.shields.io/badge/Telegram-URL%20--%20Community-blue)](https://t.me/hackerbari)
+[![Iscrizione](https://img.shields.io/badge/-Iscriviti-green)]()
+[![Birra](https://img.shields.io/badge/-Offrici%20un%20peroncino-yellow)]()
 
 Se sei uno sviluppatore e ti stai chiedendo impazientemente perchè non stai ancora leggendo del codice, puoi visitare la nostra [organizzazione](https://github.com/URL-Rete-Libera) su GitHub e contribuire ai nostri progetti.
 
