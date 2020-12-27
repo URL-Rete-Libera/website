@@ -20,7 +20,7 @@ puoi unirti al nostro gruppo Telegram [URL - Community](https://t.me/hackerbari)
 
 Se sei uno sviluppatore e ti stai chiedendo impazientemente perchè non stai ancora leggendo del codice, puoi visitare la nostra [organizzazione](https://github.com/URL-Rete-Libera) su GitHub e contribuire ai nostri progetti.
 
-Per ulteriori informazioni scrivici a `reteliberabari@gmail.com`.
+Per ulteriori informazioni scrivici a [reteliberabari@gmail.com](mailto:reteliberabari@gmail.com).
 
 ## Perchè associarsi a URL?
 Associandoti ad URL potrai prendere parte in prima persona all'organizzazione dei progetti e delle iniziative dell'associazione.\
