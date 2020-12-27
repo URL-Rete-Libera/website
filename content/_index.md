@@ -12,11 +12,7 @@ Nasce nel 2017 con l'idea di unire tutti gli individui di larghe vedute e di cre
 
 
 ## Come posso contribuire?
-Se ti piace quello che facciamo e vorresti contribuire ai nostri progetti o alle nostre iniziative, puoi:
-
-- unirti al nostro gruppo Telegram [URL - Community](https://t.me/hackerbari)
-- iscriverti all’associazione [maggiori info]
-- fare una donazione [maggiori info]
+Se ti piace quello che facciamo e vorresti contribuire ai nostri progetti o alle nostre iniziative, puoi **unirti al nostro gruppo Telegram [URL - Community](https://t.me/hackerbari)**, **iscriverti all'associazione** oppure **offrirci un caffè**.
 
 Se sei uno sviluppatore e ti stai chiedendo impazientemente perchè non stai ancora leggendo del codice, puoi visitare la nostra [organizzazione](https://github.com/URL-Rete-Libera) su GitHub e contribuire ai nostri progetti.
 
@@ -28,4 +24,3 @@ Inoltre facendo parte dell'organico potrai usufruire tutti i servizi offerti dal
 
 Tutti i diritti e doveri di ogni associato sono espletati all’interno della nostra carta costitutiva.\
 Leggi: [Statuto di URL]({{< ref "statuto.md" >}}).
-
