@@ -24,7 +24,7 @@ author = "Url - Rete Libera"
 description = "La rete del libero pensiero."
 profilePicture = "images/urllogo.png"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/favicon.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
