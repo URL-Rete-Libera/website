@@ -28,3 +28,17 @@ Inoltre facendo parte dell'organico potrai usufruire tutti i servizi offerti dal
 
 Tutti i diritti e doveri di ogni associato sono espletati all’interno della nostra carta costitutiva.\
 Leggi: [Statuto di URL]({{< ref "statuto.md" >}}).
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+## Questo sito non colleziona i tuoi dati
+Sul nostro sito non sono presenti cookie o altri tipi di dolci.
+
+**I tuoi dati di navigazione non vengono in alcun modo tracciati, salvati o gestiti da plugin esterni.**
+
+Almeno qui, puoi tirare un sospiro di sollievo ;)
