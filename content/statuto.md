@@ -7,7 +7,7 @@ date: 2020-12-24T19:28:23+01:00
 # STATUTO URL RETE LIBERA APS
 
 ## ART. 1 (Denominazione, sede e durata)
-E costituita fra i presenti, ai sensi del Codice civile e del Decreto Legislativo 3 luglio 2017, n. 117 (in `
+E costituita fra i presenti, ai sensi del Codice civile e del Decreto Legislativo 3 luglio 2017, n. 117 (in
 seguito denominato “Codice del Terzo Settore”), una associazione avente la seguente denominazione:
 “URL Rete Libera APS”, da ora in avanti denominata “associazione”, con sede legale in via Giuseppe
 Gasparre n. 7/A in Noicàttaro (BA) CAP 70016. L’associazione ha durata illimitata. Il trasferimento
