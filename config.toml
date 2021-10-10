@@ -1,6 +1,6 @@
 baseURL = "https://urlretelibera.org"
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "it"
+DefaultContentLanguage = "it"
 title = "URL - Rete Libera"
 theme = "anatole"
 summarylength = 10
@@ -29,14 +29,17 @@ favicon = "favicons/favicon.ico"
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-# mainSections = ["post"]
-mainSections = []
+mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+# date format
+singleDateFormat = "Mon, 2 Jan, 2006"
+indexDateFormat = "Mon, 2 Jan, 2006"
+listDateFormat = "2 Jan"
 
 ## Math settings
 [params.math]
@@ -91,6 +94,12 @@ url = "https://www.linkedin.com/company/url-rete-libera"
   weight = 200
   identifier = "posts"
   url = "/post/"
+
+  [[menu.main]]
+  name = "Statuto"
+  weight = 300
+  identifier = "statuto"
+  url = "/statuto/"
 
   [[menu.main]]
   name = "Contatti"

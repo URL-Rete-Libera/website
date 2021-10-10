@@ -1,8 +1,8 @@
 ---
-author: "URL - Rete Libera"
 title: "Linux Day Bari - 2021"
 date: 2021-10-08T17:57:49+02:00
 Description: ""
+author: "URL - Rete Libera"
 Tags: ["ld21ba"]
 Categories: ["Linux Day", "Bari"]
 DisableComments: false
