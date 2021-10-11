@@ -17,7 +17,7 @@ Una giornata densa di talk e attività, per la promozione del mondo dell'Open So
 
 Quest’anno **l’iscrizione è obbligatoria, ma sempre gratuita, e sarà necessario portare con sé la certificazione verde COVID-19**. I posti sono limitati, dunque affrettati!
 
-Al seguente link potete visionare il [programma della giornata]({{<ref "ld21ba_programma.md">}}).
+Al seguente link potete visionare il [programma della giornata]({{<ref "programma.md">}}).
 
 Per ulteriori informazioni:
 - Sito ufficiale e per la registrazione all'evento https://linuxdaybari.it/
