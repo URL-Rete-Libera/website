@@ -24,9 +24,23 @@ DisableComments: false
 	- **Francesco Lovergine** Debian Official Developer, DebianGis Developer, Researcher IREA CNR – Bari *"Luci ed ombre di Openstreetmap"*
 
 - 13:00 - 14:30  Pausa pranzo
-- 14:30 - 19:00  Attivitá pomeridiane
+
+## Attività pomeridiane
+
+Nonostante le restrizioni non ci siamo fatti mancare nulla!
+ 
+Sala 1:
+- Installation party permanente
+- 14:30 - 15:30  Networking 
+- 15:30 - 17:30  Capture the flag 
+- 17:30 - 19:00 Tavola rotonda sul tema dei dati
+
+Sala 2:
+- 15:00 - 19:00 *"Wikidata: dati aperti per tutti!"* Presentazione di Wikidata, il progetto Wikimedia dedicato ai dati strutturati e rilasciati con licenza CC-0.
 
 Per ulteriori informazioni:
 - Sito ufficiale e per la registrazione all'evento https://linuxdaybari.it/
 - Sito ufficiale evento nazionale https://www.linuxday.it/2021/
 - Evento su Facebook: https://www.facebook.com/events/603534153984415/
+
+Seguiteci anche su Instagram, Twitter e Linkedin per rimanere aggiornati su tutte le novità.
